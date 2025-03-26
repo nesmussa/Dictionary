@@ -19,8 +19,7 @@ The primary aim of this app is to bridge the gap between English and Amharic spe
 
 - **Flutter**: A flexible and efficient framework for cross-platform app development.
 - **Dart**: The programming language used to build the app.
-- **SQLite/Database (Optional)**: For storing dictionary entries locally, if implemented.
-- **REST API Integration (Optional)**: If the app is designed to fetch translations from an online source.
+- **SQLite/Database **: For storing dictionary entries locally, if implemented.
 
 ## Installation and Usage
 
